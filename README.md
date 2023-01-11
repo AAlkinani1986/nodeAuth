@@ -15,3 +15,8 @@ If you have a website, you want visitors. And if you run a business through a we
 ### Instructor
 Ali Alkinani
 
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/daniel-khan).
+
+[lil-course-url]: https://www.linkedin.com/learning/node-authentication
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2881188/2881188-1624987742273-16x9.jpg
